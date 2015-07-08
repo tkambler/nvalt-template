@@ -1,0 +1,21 @@
+{
+  "name": "nvalt-template",
+  "version": "1.0.0",
+  "description": "An nvALT template capable of automatically generating TOCs in preview mode based on a document's headings (h1, h2) etc...",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "browserify": "^10.2.4",
+    "grunt": "^0.4.5",
+    "jquery": "^2.1.4",
+    "jquery.scrollto": "^2.1.1",
+    "lodash": "^3.10.0",
+    "underscore.string": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Ambler <tkambler@gmail.com>",
+  "license": "ISC"
+}
